@@ -3,3 +3,4 @@ description = A support module for the contact form to remove "Send yourself a c
 package = Custom Modules
 core = 7.x
 files[] = support_contact.module
+stylesheets[all][] = support_contact.css

@@ -1,0 +1,5 @@
+name = Contact Support Module
+description = A support module for the contact form to remove "Send yourself a copy".
+package = Custom Modules
+core = 7.x
+files[] = support_contact.module
